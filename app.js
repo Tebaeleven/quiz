@@ -7,7 +7,7 @@ const quiz =[
       "ニンテンドースイッチ",
       "ニンテンドーDS"
     ],
-    collect:"ニンテンドーDS"
+    correct:"ニンテンドーDS"
   },{
     question:"糸井重里が企画に関わった、任天堂の看板ゲームと言えば？",
     answers:[
@@ -16,7 +16,7 @@ const quiz =[
       "スーパドンキーコング",
       "星のカービィ"
     ],
-    collect:"MOTHER2"
+    correct:"MOTHER2"
   },{
     question:"ファイナルファンタジーⅣの主人公の名前は？",
     answers:[
